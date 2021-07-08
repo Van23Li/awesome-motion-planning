@@ -68,7 +68,7 @@ A curated list of research papers, tools and other resources related to motion p
 
 - Amine Elhafsi, Boris Ivanovic, Lucas Janson, Marco Pavone
 
-  "Map-Predictive Motion Planning in Unknown Environments." ICRA (2020). [[paper](https://ieeexplore.ieee.org/document/9197522)] [[code](https://github.com/StanfordASL/ MapPredictiveMotionPlanning)]
+  "Map-Predictive Motion Planning in Unknown Environments." ICRA (2020). [[paper](https://ieeexplore.ieee.org/document/9197522)] [[code](https://github.com/StanfordASL/MapPredictiveMotionPlanning)]
 
 ---
 
