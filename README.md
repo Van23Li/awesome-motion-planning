@@ -1,14 +1,10 @@
 # Motion Planning Paper List
 
----
-
 A curated list of research papers, tools and other resources related to motion planning.
 
 *Please add your favourite resource about motion planning by raising a [pull request](https://github.com/Van23Li/awesome-motion-planning/pulls)*
 
 ## ICRA2020
-
----
 
 - Narcís Sayols, Alessio Sozzi, Nicola Piccinelli, Albert Hernansanz, Alicia Casals, Marcello Bonfè, Riccardo Muradore.
 
@@ -78,8 +74,6 @@ A curated list of research papers, tools and other resources related to motion p
 
 ## Libraries
 
----
-
 - [OMPL](http://ompl.kavrakilab.org/): Sampling based planning
 - [SBPL](https://github.com/sbpl/sbpl): Heuristic search based planning
 - [SMPL](https://github.com/aurone/smpl): Heuristic search based planning for manipulators
@@ -87,8 +81,6 @@ A curated list of research papers, tools and other resources related to motion p
 ---
 
 ## Simulators
-
----
 
 - [iGibson](https://github.com/StanfordVL/iGibson): Indoor simulation environment
 - [AGX Dynamics]( https://www.algoryx.se/products/agx-dynamics/): commercial dynamic simulator
